@@ -288,7 +288,7 @@ const CourseListHandlers = () => {
         setTimeout(async () => {
 
             try {
-                const response = await axios.get("https://dpqkqd-3000.csb.app/courses", {
+                const response = await axios.get("https://cxfq59-3000.csb.app/courses", {
                     withCredentials: true
                 })
 
